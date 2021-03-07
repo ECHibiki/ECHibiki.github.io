@@ -1,29 +1,30 @@
 ## Who Am I
 
-Verniy(ECHibiki) is the developer, admin and creator of Kissu.moe, current admin of 4taba.net. Along with Cool-Guy they have run Kissu.moe since December 2018. He holds a batchelors degree in computer science and cegep(pre-university) degree in music.<br/>
+Verniy(ECHibiki/Myself) is the developer, admin and creator of Kissu.moe, current admin of 4taba.net. Along with Cool-Guy they have run Kissu.moe since December 2018. He holds a batchelors degree in computer science and cegep(pre-university) degree in music.<br/>
 <br/>
-Before running Kissu.moe Verniy was a student of computer science and a member of 4chan's /qa/ board. He has written scripts for IRCs and imageboards. 
+While running Kissu.moe, Verniy was a student of computer science and a member of 4chan's /qa/ board. He has written scripts for IRCs and imageboards, dabbled in music and worked on independant games.
 
 ### Current Work
 
-Currently I develop and expand kissu.moe. My duties are to maintain the software, expand the software, security tools, handle any legal/external issues, help staff deal with internal issues, bring in new staff members, expand on infastructure. I maintain a github repository with some open source work such as a program to rotate user submitted banners and the public source code of kissu's Vichan variant. <br/>
+Currently Verniy develops and expands kissu.moe. His duties are to maintain the software, expand the software, security tools, handle any legal/external issues, help staff deal with internal issues, bring in new staff members, expand on infastructure. He maintains a github repository with some open source work such as a program to rotate user submitted banners and the public source code of kissu's Vichan variant. <br/>
 <br/>
-I maintain 4taba, keeping the SSL up to date and clean spam.
+Verniy also maintains 4taba, keeping the SSL up to date and cleaning spam.
 
 ### History
 
 #### Birth-2002 : 
-Moved a lot as a kid from Toronto ending up in Montreal. As a kid who couldn't make friends easily, the computer ended up being my best friend. At that time, and the places I was in, I did not have reliable internet for some of the tougher years of my life.
+Verniy moved a lot as a kid from Toronto ending up in Montreal. As a kid who couldn't make friends easily, the computer ended up being his best friend. At that time, and the places he was in, he did not have reliable internet connection for most of his youth.
 #### 2003-2008 : 
-Elementary school I was in was rough for me. Dialup was no longer a thing in my life though so I began getting into flash games, anime and online games. This was the point where the Internet began being somewhere I could socialize. In highschool I heard of imageboards, though they were not as interesting as socializing in games and forums.
+His younger years were rough. However, dialup was no longer a thing in his life and he began getting into flash games, anime and online games. This was the point where the Internet began being somewhere he could socialize. In highschool he heard of imageboards, though they were not as interesting as socializing through games and their associated forums.
 #### 2009-2015 : 
-Eventually I would find casual interest in 4chan's /a/ and /b/ boards as well as ocasionally view some of the smaller boards on the site. My interest in 4chan was on an off. A side thing while I studied sciences in cegep and a small part of my life while in music at university. I recall a roommate complaining to the dorms that I was viewing 4chan on a laptop on my first week there which was funny, we didn't hit it off.
+Eventually he would find casual interest in 4chan's /a/ and /b/ boards as well as ocasionally view some of the smaller boards on the site. His interest in 4chan was on and off. A side thing while he studied sciences and a small part of his life while devoted to music at university.
+
 #### 2015 : 
-A future in music requires strong networking, something I never much cared for so I dropped out of it in my second year and enrolled in a batchelor's degree for computer science. Thankfully Canada's education is cheap and I never went into debt. My former friend was a massively political autist who would constantly talk about the benefits of capitalism and how government is evil. After ditching him and following along with the flow of media at the time, my interest in imageboards was political in nature where being outraged was the most entertaining thing. I liked to use it as a way to talk shit about a political philosophy that I don't believe in.  
+A future in music requires strong networking, something he never much cared for so. He dropped out of it in his second year and enrolled in a batchelor's degree for computer science. After ditching his former life and following along with the flow of media at the time, his interest in imageboards was political in nature where being outraged was the most entertaining thing and convinient escapism.
 #### 2015-2018 : 
-Eventually I mellowed out after the US elections were over and wound up on /qa/. I posted on the board as both a means to entertain myself while classes were boring and talk shit about the state of 4chan. Numerous hyjnx ensued which got myself and a friend(cool-guy) in trouble and known by 4chan's mods. We helped take part in building a community in a remote part of the internet and when it became clear that the staff truely did not want us around we made kissu.moe as a place where we did not have to deal with 4chan and could be our own bosses, seperate from the political types that were coming to dominate the definition of imageboard.
+Eventually getting tired of the poltical atmosphere he wound up posting on /qa/. This board was both a means to entertain himself while classes were boring, socialize in a more simple atmosphere, and talk shit about the state of 4chan. Numerous hyjnx ensued which got himself and a friend(cool-guy) known(and subsequently banned) by 4chan's mods. They amoung other anonymous users helped take part in building a community in a remote part of the internet. when it became clear that the staff truely did not want them around they made kissu.moe as a place where they did not have to deal with 4chan and could be thier own bosses, seperate from the political types that were coming to dominate the definition of imageboard.
 #### 2018-Present : 
-We continue to build kissu.moe with help from others, dealing with the troubles of running an social platform on the web. Eventually I acquired 4taba.net as the previous owner was no longer interested in running social platforms and run it for an extra server for kissu and maintain a website that is unique amoung others. 
+Graduating in 2019, Canada's cheap cost of eduction left Verniy with a large sum of funds after graduating. This would become his main source of funding while working on kissu, allowing him to focus on his websites in peace. They continue to build kissu.moe with help from others, dealing with the troubles of running a social platform on the web. Eventually Verniy acquired 4taba.net as the previous owner was no longer interested in running social platforms and run it. This provided an excuse to expand Kissu.moe's servers and keep a unique website up on the internet. Still with much funds left over he is now looking at how to make a living for himself while continuing to support Kissu's growth.
 
 ### Need Help?
 
