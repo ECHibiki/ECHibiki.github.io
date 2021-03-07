@@ -6,16 +6,17 @@ While running Kissu.moe, Verniy was a student of computer science and a member o
 
 ### Current Work
 
-Currently Verniy develops and expands kissu.moe. His duties are to maintain the software, expand the software, security tools, handle any legal/external issues, help staff deal with internal issues, bring in new staff members, expand on infastructure. He maintains a github repository with some open source work such as a program to rotate user submitted banners and the public source code of kissu's Vichan variant. <br/>
+Currently Verniy develops and expands kissu.moe. His duties are to maintain the software, expand the software, security tools, handle any legal/external issues, help staff deal with internal issues, bring in new staff members, expand on infastructure. He maintains a github repository with some open source work such as a program to rotate user submitted banners and the public source code of Kissu's Vichan variant. <br/>
 <br/>
 Verniy also maintains 4taba, keeping the SSL up to date and cleaning spam.
 
 ### History
 
 #### Birth-2002 : 
-Verniy moved a lot as a kid from Toronto ending up in Montreal. As a kid who couldn't make friends easily, the computer ended up being his best friend. At that time, and the places he was in, he did not have reliable internet connection for most of his youth.
+Verniy moved a lot as a kid from Toronto ending up in Montreal. Moving around a lot, the computer was his best friend. At that time, and the places he was in, he did not have reliable internet connection for most of his youth and would use it to pass away the early years of his life.
 #### 2003-2008 : 
-His younger years were rough. However, dialup was no longer a thing in his life and he began getting into flash games, anime and online games. This was the point where the Internet began being somewhere he could socialize. In highschool he heard of imageboards, though they were not as interesting as socializing through games and their associated forums.
+His younger years were rough. However, he now had a stable internet connection which got him interested in flash games, online games and anime. This was the point where the Internet began being somewhere he could socialize. In highschool he heard of imageboards and lurked a bit, though they were not as interesting as socializing through games and their associated forums.
+
 #### 2009-2015 : 
 Eventually he would find casual interest in 4chan's /a/ and /b/ boards as well as ocasionally view some of the smaller boards on the site. His interest in 4chan was on and off. A side thing while he studied sciences and a small part of his life while devoted to music at university.
 
