@@ -21,7 +21,9 @@ We continue to build kissu.moe with help from others, dealing with the troubles 
 
 ### Current Work
 
-Currently I develop and exepand kissu.moe. My duties are to maintain the software, expand the software, security tools, handle any legal/external issues, help staff deal with internal issues, bring in new staff members, expand on infastructure. I maintain a github repository with some open source work such as a program to rotate user submitted banners and the public source code of kissu's Vichan variant. 
+Currently I develop and exepand kissu.moe. My duties are to maintain the software, expand the software, security tools, handle any legal/external issues, help staff deal with internal issues, bring in new staff members, expand on infastructure. I maintain a github repository with some open source work such as a program to rotate user submitted banners and the public source code of kissu's Vichan variant. <br/>
+<br/>
+I maintain 4taba, keeping the SSL up to date and clean spam.
 
 ### Need Help?
 
@@ -29,4 +31,4 @@ If you have an imageboard and are in need of a developer I might be able to help
 
 ### Support or Contact
 
-Reach me at ECVerniy@gmail.com. I am sometimes on IRC as ECVerniy in the #qa channel.
+Reach me at ECVerniy@gmail.com. I am sometimes on IRC as ECVerniy in the irc.rizon.org#qa channel.
