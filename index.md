@@ -1,8 +1,8 @@
 ## Who Am I
 
-Verniy(ECHibiki/Myself) is the developer, admin and creator of Kissu.moe, current admin of 4taba.net. Along with Cool-Guy they have run Kissu.moe since December 2018. He holds a batchelors degree in computer science and cegep(pre-university) degree in music.<br/>
+Verniy(ECHibiki/Myself) is the developer, admin and creator of Kissu.moe, current admin of 4taba.net. He's run Kissu.moe since December 2018 with the help of many contributors. 
 <br/>
-While running Kissu.moe, Verniy was a student of computer science and a member of 4chan's /qa/ board. He has written scripts for IRCs and imageboards, dabbled in music and worked on independant games.
+While running Kissu.moe, Verniy was a student of computer science and a member of 4chan's /qa/ board. After graduating his main focus was building a unique identity for the site and creating a model for financial stability. He has written scripts for IRCs and imageboards, dabbled in music and worked on independent games. His education is a batchelors degree in computer science and cegep(pre-university) degree in music.<br/>
 
 ### Current Work
 
