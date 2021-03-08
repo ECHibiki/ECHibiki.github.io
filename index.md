@@ -12,17 +12,17 @@ Verniy also maintains 4taba, cleaning spam and keeping the servers running.
 
 ### Need Help?
 
-If you have an imageboard and are in need of a developer I might be able to help for a cost. I'm always open to develop new scripts and add features to your software. I'm a university trained computer scientist with 3 years of development experience on imageboards in PHP, NodeJS, TypeScript and Golang. Some other work in Python3, Unity Game Engine(C#), Laravel. I am not at the same level as others, but have done a bit with Ruby, C++(OpenGL) and Guile-Scheme(Artanis). I could write something basic in these languages
+If you are in need of a developer I might be able to help for a cost. I'm always open to develop new scripts and add features to your software. I'm a university trained computer scientist with 3 years of development experience on imageboards in PHP, NodeJS, TypeScript and Golang. Some other work in Python3, Unity Game Engine(C#), Laravel. I have done a bit with Ruby, C++(OpenGL) and Guile-Scheme(Artanis) and could write something basic in these languages. Down payment will be to my paypal upon accepting a job.
 
 ### Support or Contact
 
-Reach me at ECVerniy@gmail.com. I am sometimes on IRC as ECVerniy in the irc.rizon.org#qa channel.
+Reach me at ECVerniy@gmail.com. I am sometimes on IRC in irc.rizon.org#qa.
 
 ### Extras
-Some extra info that may or may not be interesting.
+Some extra info about me that may or may not be interesting.
 
 #### History
-Timline from life to present
+Timeline from birth to present
 ##### Birth-2002 : 
 Verniy moved a lot as a kid from Toronto ending up in Montreal. Moving around a lot, the computer was his best friend. At that time, and the places he was in, he did not have reliable internet connection for most of his youth and would use it to pass away the early years of his life.
 ##### 2003-2008 : 
