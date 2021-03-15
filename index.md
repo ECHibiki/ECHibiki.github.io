@@ -1,12 +1,15 @@
 ## Portfolio
-These are some of my interesting projects.
+These are some of my interesting projects. I'm a developer with most of my experience in TypeScript. I have spent a lot of time modifying and building open-source PHP projects. Lately I have built Golang API servers and made use of NodeJS. In the past I've built programs around Google, Twitter and Github APIs and played around with user-scripts. My university education is in game programming, but I've always had more fun spending my time on websites.
+
+<style>td{border:1px solid #d9d9d9;}</style>
 <table>
 <tr>
   <td>Home</td>
   <td><a href="/react">ReactJS</a></td>
-  <td><a href="/laravel">laravel</a></td>
-  <td><a href="/backend">Backend</a></td>
+  <td><a href="/laravel">Laravel</a></td>
+  <td><a href="/servers">Servers</a></td>
   <td><a href="/tools">Tools</a></td>
+  <td><a href="/contact">Contact</a></td>
 </tr>
 </table>
 
@@ -28,7 +31,7 @@ If you are in need of a developer I might be able to help for a cost. I'm always
 
 ### Support or Contact
 
-Reach me at ECVerniy@gmail.com. I am sometimes on IRC in irc.rizon.org#qa.
+Reach me at ECVerniy@gmail.com. I am on IRC in irc.rizon.org#kissu.
 
 ### Extras
 Some extra info about me that may or may not be interesting.
@@ -57,8 +60,9 @@ Graduating in 2019, Canada's cheap cost of eduction left Verniy with a large sum
 <tr>
   <td>Home</td>
   <td><a href="/react">ReactJS</a></td>
-  <td><a href="/laravel">laravel</a></td>
-  <td><a href="/backend">Backend</a></td>
+  <td><a href="/laravel">Laravel</a></td>
+  <td><a href="/servers">Servers</a></td>
   <td><a href="/tools">Tools</a></td>
+  <td><a href="/contact">Contact</a></td>
 </tr>
 </table>

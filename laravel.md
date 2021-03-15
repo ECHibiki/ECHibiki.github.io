@@ -1,11 +1,12 @@
-
+<style>td{border:1px solid #d9d9d9;}</style>
 <table>
 <tr>
   <td><a href="/">Home</a></td>
   <td><a href="/react">ReactJS</a></td>
-  <td>laravel</td>
-  <td><a href="/backend">Backend</a></td>
+  <td>Laravel</td>
+  <td><a href="/servers">Servers</a></td>
   <td><a href="/tools">Tools</a></td>
+  <td><a href="/contact">Contact</a></td>
 </tr>
 </table>
 
@@ -22,8 +23,9 @@ Blockhash, a library for perceptual/fuzzy hashing, prevents duplicates from bein
 <tr>
   <td><a href="/">Home</a></td>
   <td><a href="/react">ReactJS</a></td>
-  <td>laravel</td>
-  <td><a href="/backend">Backend</a></td>
+  <td>Laravel</td>
+  <td><a href="/servers">Servers</a></td>
   <td><a href="/tools">Tools</a></td>
+  <td><a href="/contact">Contact</a></td>
 </tr>
 </table>
