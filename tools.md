@@ -2,10 +2,10 @@
 <table>
 <tr>
   <td><a href="/">Home</a></td>
-  <td><a href="/react">ReactJS</a></td>
-  <td><a href="/laravel">Laravel</a></td>
-  <td><a href="/servers">Servers</a></td>
-  <td>Tools</td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
+  <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>
 </table>
@@ -44,13 +44,13 @@ This page showcases some tools that I have built to achieve certain tasks on pla
 
   Userscripts were how I got into web programming in the first place. Whiles some were extensions that enhanced the experience of browsing, some were userscripts that enhanced other userscripts.
 
-<table>
-<tr>
-  <td><a href="/">Home</a></td>
-  <td><a href="/react">ReactJS</a></td>
-  <td><a href="/laravel">Laravel</a></td>
-  <td><a href="/servers">Servers</a></td>
-  <td>Tools</td>
-  <td><a href="/contact">Contact</a></td>
-</tr>
-</table>
+  <table>
+  <tr>
+    <td><a href="/">Home</a></td>
+    <td><a href="/kissufr">Kissu-Fr</a></td>
+    <td><a href="/banners">Community-Banners</a></td>
+    <td><a href="/vi">Hazuki+Vichan</a></td>
+    <td><a href="/tools">Tools</a></td>
+    <td><a href="/contact">Contact</a></td>
+  </tr>
+  </table>

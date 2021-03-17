@@ -2,9 +2,9 @@
 <table>
 <tr>
   <td><a href="/">Home</a></td>
-  <td><a href="/react">ReactJS</a></td>
-  <td>Laravel</td>
-  <td><a href="/servers">Servers</a></td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
   <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>
@@ -22,9 +22,9 @@ Blockhash, a library for perceptual/fuzzy hashing, prevents duplicates from bein
 <table>
 <tr>
   <td><a href="/">Home</a></td>
-  <td><a href="/react">ReactJS</a></td>
-  <td>Laravel</td>
-  <td><a href="/servers">Servers</a></td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
   <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>

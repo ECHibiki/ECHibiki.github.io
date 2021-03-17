@@ -2,9 +2,9 @@
 <table>
 <tr>
   <td><a href="/">Home</a></td>
-  <td><a href="/react">ReactJS</a></td>
-  <td><a href="/laravel">Laravel</a></td>
-  <td>Servers</td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
   <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>
@@ -40,9 +40,9 @@ In my time some servers have run wordpress for blogs. I don't proclaim to be an 
 <table>
 <tr>
   <td><a href="/">Home</a></td>
-  <td><a href="/react">ReactJS</a></td>
-  <td><a href="/laravel">Laravel</a></td>
-  <td>Servers</td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
   <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>

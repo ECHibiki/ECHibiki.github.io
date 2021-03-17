@@ -4,10 +4,10 @@ These are some of my interesting projects. I'm a developer with most of my exper
 <style>td{border:1px solid #d9d9d9;}</style>
 <table>
 <tr>
-  <td>Home</td>
-  <td><a href="/react">ReactJS</a></td>
-  <td><a href="/laravel">Laravel</a></td>
-  <td><a href="/servers">Servers</a></td>
+  <td><a href="/">Home</a></td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
   <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>
@@ -58,10 +58,10 @@ Graduating in 2019, Canada's cheap cost of eduction left Verniy with a large sum
 
 <table>
 <tr>
-  <td>Home</td>
-  <td><a href="/react">ReactJS</a></td>
-  <td><a href="/laravel">Laravel</a></td>
-  <td><a href="/servers">Servers</a></td>
+  <td><a href="/">Home</a></td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
   <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>

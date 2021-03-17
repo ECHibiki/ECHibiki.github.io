@@ -2,9 +2,9 @@
 <table>
 <tr>
   <td><a href="/">Home</a></td>
-  <td>ReactJS</td>
-  <td><a href="/laravel">Laravel</a></td>
-  <td><a href="/servers">Servers</a></td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
   <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>
@@ -22,9 +22,9 @@ While kissu.moe's posting servers are a combination of a Golang API server for w
 <table>
 <tr>
   <td><a href="/">Home</a></td>
-  <td>ReactJS</td>
-  <td><a href="/laravel">Laravel</a></td>
-  <td><a href="/servers">Servers</a></td>
+  <td><a href="/kissufr">Kissu-Fr</a></td>
+  <td><a href="/banners">Community-Banners</a></td>
+  <td><a href="/vi">Hazuki+Vichan</a></td>
   <td><a href="/tools">Tools</a></td>
   <td><a href="/contact">Contact</a></td>
 </tr>
