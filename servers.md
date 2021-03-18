@@ -22,16 +22,16 @@ This page highlights some accomplishments in working with servers over the past 
 </ol>
 
 ## Servers
-Originally using HostGator's shared hosting, as my experience grew I expanded into home servers using XAMPP. Currently I use Linux VPS servers in Ubuntu.
+Currently I use Linux VPS servers in Ubuntu. Originally using HostGator's shared hosting, as my experience grew I expanded into home servers using XAMPP and finally VPS'.
 ## CloudFlare
-CloudFlare was originally my choice of sites for SSL Certificates, but I have since grown to appreciate it as a metric for gauging user counts and geography, saving bandwidth, managing DNS and provide simple DoS security.
+CloudFlare was originally my choice of sites for SSL Certificates, but I have since grown to appreciate it as a metric for gauging user counts and geography, saving bandwidth through CDNs, managing DNS and providing DoS security.
 ## NGINX
 Of the choice between Apache and NGINX I will chose NGINX due to both familiarity and an easier experience building complicated location blocks. On my servers I have made them alternate between one UI or the other depending on if a cookie is present, configured subdomains, handled file retrievals with no extensions, used it for proxying. While this is all possible on Apache, NGINX comes across as easier. Rate limiting in NGINX is a simple task with lots of depth.
 ## SSL
 Typically servers will run end-to-end encryption using both cloudflare and a LetsEncrypt Certificate. While I have used both individually redundancy in security scenarios is better than optimization and assures privacy of data to anyone in-between.
 ## Software
-My servers run Ubuntu on them since it is my work environment of choice. It's simple GUI and standard Linux terminal allow for seamless updates between development and production servers. It's file system allows for easy transfers between server and work environments. Nothing could be a more simple OS for working with servers. MySQL is often used due to familiarity.
-I have also used a Squid Server to mask the IP of a website hidden behind CloudFlare which makes requests to websites at client's requests.
+My servers run Ubuntu on them since it is my work environment of choice. It's simple GUI and standard Linux terminal allow for seamless updates between development and production servers. It's file system allows for easy transfers between server and work environments. In everything it is a simple OS for working with servers. MySQL is often used due to familiarity.
+I have also used a Squid Server to proxy the requests of a website hidden behind CloudFlare.
 ## Security
 My servers make use of long passwords and restrictive permissions. When required I use a custom captcha and run scripts to remove abusive IPs from services as they appear in spam databases and proxy websites. While CloudFlare is a good tool for DoS  prevention, good NGINX rate limiting is important as well. CloudFlare's CSAM scanner helps to handle the issues of illegal material being posted to websites.
 ## Wordpress
